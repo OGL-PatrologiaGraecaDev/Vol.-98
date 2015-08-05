@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/98/hvd.32044073502148/768.png"; bbox 0 0 1952 3104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1033 181 1543 321">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1033 181 1543 321">
+     <span class='ocr_line' id='line_1_1' title="bbox 1033 181 1543 321; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 1033 181 1543 321; x_wconf 45' lang='lat' dir='ltr'>malua!!!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1036 284 1429 322">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1036 284 1429 322">
+     <span class='ocr_line' id='line_1_2' title="bbox 1036 284 1429 322; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 1036 285 1060 322; x_wconf 87' lang='grc'>3</span> <span class='ocrx_word' id='word_1_3' title='bbox 1093 285 1202 322; x_wconf 90' lang='lat'>2044</span> <span class='ocrx_word' id='word_1_4' title='bbox 1234 284 1315 322; x_wconf 87' lang='lat' dir='ltr'>O73</span> <span class='ocrx_word' id='word_1_5' title='bbox 1349 284 1429 321; x_wconf 87' lang='lat'>502</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 716 2296 1108 2392">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 716 2296 1108 2392">
+     <span class='ocr_line' id='line_1_3' title="bbox 716 2296 1108 2392; baseline 0.028 -13"><span class='ocrx_word' id='word_1_6' title='bbox 941 2342 1108 2392; x_wconf 78' lang='lat' dir='ltr'>VOLUME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 735 2400 1194 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 735 2400 1194 2463">
+     <span class='ocr_line' id='line_1_4' title="bbox 735 2400 1194 2463; baseline 0.031 -16"><span class='ocrx_word' id='word_1_7' title='bbox 735 2400 839 2450; x_wconf 87' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_8' title='bbox 867 2407 946 2453; x_wconf 86' lang='lat' dir='ltr'>NOT</span> <span class='ocrx_word' id='word_1_9' title='bbox 973 2411 1194 2463; x_wconf 76' lang='lat' dir='ltr'>CIRCULATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 729 2469 1197 2531">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 729 2469 1197 2531">
+     <span class='ocr_line' id='line_1_5' title="bbox 729 2469 1197 2531; baseline 0.038 -18"><span class='ocrx_word' id='word_1_10' title='bbox 729 2469 901 2519; x_wconf 86' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_11' title='bbox 926 2476 1002 2522; x_wconf 84' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1028 2480 1197 2531; x_wconf 75' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
